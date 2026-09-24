@@ -308,9 +308,9 @@ I enjoy transforming raw data into meaningful business insights and building ana
 
 - **Location:** India
 - **Open to Work:** Data Analyst | BI Analyst | Business Intelligence Roles
-- **LinkedIn:** (www.linkedin.com/in/yamenidevi-s182006)
+- **LinkedIn:** www.linkedin.com/in/yamenidevi-s182006
 - **Email:** yamenidevi1804@gmail.com
-- **GitHub:** [yamenidevi](https://github.com/yamenidevi)
+- **GitHub:** https://github.com/yamenidevi
 
 ---
 
